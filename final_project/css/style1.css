@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Bebas+Neue|Roboto:400,700&display=swap');
+
+body {
+  background-color: #3CB371;
+  color:white;
+  font-family: "Roboto",sans-serif;
+  margin:auto;
+}
+h1 {
+  text-transform: uppercase;
+  text-align: center;
+  text-decoration: underline;
+  font-style: italic;
+  font-size: 45px;
+}
+
+h2  {
+text-align:center;
+text-decoration: overline;
+font-weight: bold;
+font-family: cursive;
+}
